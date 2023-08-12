@@ -23,5 +23,9 @@
   "devDependencies": {
     "@types/express": "^4.17.17",
     "@types/node-fetch": "^2.6.4"
-  }
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+    }
 }
